@@ -21,6 +21,6 @@ To run the project locally, follow these steps:
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/your_username/dynamic-counter.git
-   cd dynamic-counter
+   git clone https://github.com/DavidSerranoReyes/FancyCounter.git
+   cd FancyCounter
    ```
